@@ -1,0 +1,87 @@
+{
+  "uid" : "b6602c3d29841453",
+  "name" : "test_two[参数1]",
+  "fullName" : "test_fixture.Test_firstFile#test_two",
+  "historyId" : "e33b94bf159f2c22327296b9320f8665",
+  "time" : {
+    "start" : 1619504843061,
+    "stop" : 1619504843061,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "myfixture",
+    "time" : {
+      "start" : 1619504843061,
+      "stop" : 1619504843061,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "539c74317cfa2f0d",
+      "name" : "stdout",
+      "source" : "539c74317cfa2f0d.txt",
+      "type" : "text/plain",
+      "size" : 48
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_fixture"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_firstFile"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-HE2U0O2"
+  }, {
+    "name" : "thread",
+    "value" : "19644-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_fixture"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "myfixture",
+    "value" : "'参数1'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b6602c3d29841453.json",
+  "parameterValues" : [ "'参数1'" ]
+}

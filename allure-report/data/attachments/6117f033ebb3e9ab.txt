@@ -1,0 +1,2 @@
+执行myfixture,带参数参数2
+执行test two

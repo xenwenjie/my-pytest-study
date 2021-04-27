@@ -1,0 +1,59 @@
+{
+  "uid" : "60110bb76376e09c",
+  "name" : "test_add[int]",
+  "fullName" : "test_parametrize#test_add",
+  "historyId" : "c9373e829d7b912254c240635f5d0494",
+  "time" : {
+    "start" : 1619504843124,
+    "stop" : 1619504843124,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_parametrize"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-HE2U0O2"
+  }, {
+    "name" : "thread",
+    "value" : "19644-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_parametrize"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "a",
+    "value" : "3"
+  }, {
+    "name" : "b",
+    "value" : "5"
+  }, {
+    "name" : "expected",
+    "value" : "8"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "60110bb76376e09c.json",
+  "parameterValues" : [ "3", "5", "8" ]
+}

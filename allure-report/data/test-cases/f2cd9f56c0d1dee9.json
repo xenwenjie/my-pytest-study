@@ -1,0 +1,159 @@
+{
+  "uid" : "f2cd9f56c0d1dee9",
+  "name" : "test_three",
+  "fullName" : "test_setup_teardown.TestCase#test_three",
+  "historyId" : "98e8cb79f29c8aa34a7e4452079f4aaf",
+  "time" : {
+    "start" : 1619504843240,
+    "stop" : 1619504843240,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "xunit_setup_class_fixture_TestCase",
+    "time" : {
+      "start" : 1619504843240,
+      "stop" : 1619504843240,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "xunit_setup_module_fixture_test_setup_teardown",
+    "time" : {
+      "start" : 1619504843224,
+      "stop" : 1619504843224,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "xunit_setup_function_fixture_test_setup_teardown",
+    "time" : {
+      "start" : 1619504843240,
+      "stop" : 1619504843240,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "dfb6b9ae54d94f32",
+      "name" : "stdout",
+      "source" : "dfb6b9ae54d94f32.txt",
+      "type" : "text/plain",
+      "size" : 177
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "xunit_setup_class_fixture_TestCase::0",
+    "time" : {
+      "start" : 1619504843252,
+      "stop" : 1619504843252,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "xunit_setup_module_fixture_test_setup_teardown::0",
+    "time" : {
+      "start" : 1619504843252,
+      "stop" : 1619504843252,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "xunit_setup_function_fixture_test_setup_teardown::0",
+    "time" : {
+      "start" : 1619504843240,
+      "stop" : 1619504843240,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_setup_teardown"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestCase"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-HE2U0O2"
+  }, {
+    "name" : "thread",
+    "value" : "19644-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_setup_teardown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f2cd9f56c0d1dee9.json",
+  "parameterValues" : [ ]
+}

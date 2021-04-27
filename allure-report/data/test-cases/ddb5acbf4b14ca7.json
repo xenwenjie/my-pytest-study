@@ -1,0 +1,59 @@
+{
+  "uid" : "ddb5acbf4b14ca7",
+  "name" : "test_add[minus]",
+  "fullName" : "test_param_in_file#test_add",
+  "historyId" : "404e5db12e2badae85190dff68f31aef",
+  "time" : {
+    "start" : 1619504843105,
+    "stop" : 1619504843105,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_param_in_file"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-HE2U0O2"
+  }, {
+    "name" : "thread",
+    "value" : "19644-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_param_in_file"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "a",
+    "value" : "-1"
+  }, {
+    "name" : "b",
+    "value" : "-2"
+  }, {
+    "name" : "expected",
+    "value" : "-3"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ddb5acbf4b14ca7.json",
+  "parameterValues" : [ "-1", "-2", "-3" ]
+}
